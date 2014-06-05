@@ -9,3 +9,9 @@ Firstly, both you and the android device have to be connected to the same wifi n
 Now open up your laptop/computer, and find your local ip address. Type ipconfig on a Linux machine or ifconfig on a Windows machine. Find out your local ip, something on the lines of 192.168.xxx.xxx
 
 Now open the app on your device, type the ip and presto! May you be blown away by the awesomeness of the terrible code that I've written.
+
+
+
+Hold two fingers down in order to scroll.
+Hold three fingers down in order to Alt+Tab.
+The right click is like the right click of a Mac. i.e. Hold one finger down, now tap another finger while the first finger is still held down in order to right click.
